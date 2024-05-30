@@ -1,16 +1,25 @@
-## Hi there 👋
+## feederbox826
 
-<!--
-**feederbox826/feederbox826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hwaccel containers:
+- [stash-s6](https://github.com/feederbox826/stash-s6)
+- [stash-cuda (deprecated)](https://github.com/feederbox826/stash-cuda)
 
-Here are some ideas to get you started:
+stash plugins/ addons:
+- [plugins](https://github.com/feederbox826/plugins)
+- [scrapers](https://github.com/feederbox826/scrapers)
+- [themes](https://github.com/feederbox826/themes)
+- [userscripts](https://github.com/feederbox826/userscripts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+external projects:
+- [stash-backup](https://github.com/feederbox826/stash-backup)
+- [stashlist](https://github.com/feederbox826/stashlist) ([web ui](https://list.feederbox.cc))
+- git mirror: https://git.feederbox.cc
+- HEVC test files: https://feederbox.cc/pub/
+
+FansDB projects
+- [SHALookup](https://github.com/feederbox826/FansDB-SHALookup)
+- [stash-notify](https://github.com/feederbox826/stash-notify)
+- [fans-invite](https://github.com/feederbox826/fans-invite)
+- studio logo archive: https://fans.feederbox.cc
+
+quick links [`/hevc`](https://feederbox.cc/hevc) [`/hwaccel`](https://feederbox.cc/hwaccel) 
