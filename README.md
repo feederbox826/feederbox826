@@ -24,4 +24,5 @@ FansDB projects
 - [fans-invite](https://github.com/feederbox826/fans-invite)
 - studio logo archive: https://fans.feederbox.cc
 
-quick links [`/hevc`](https://feederbox.cc/hevc) [`/hwaccel`](https://feederbox.cc/hwaccel) [`/thelist`](https://feederbox.cc/thelist)
+quick links [`/hevc`](https://feederbox.cc/hevc) [`/hwaccel`](https://feederbox.cc/hwaccel) [`/thelist`](https://feederbox.cc/thelist)  
+to access any github projects: `https://feederbox.cc/gh/name`
