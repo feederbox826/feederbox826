@@ -15,7 +15,7 @@ external projects:
 - [stashlist](https://github.com/feederbox826/stashlist) ([web ui](https://list.feederbox.cc))
 - git mirror: https://git.feederbox.cc
 - HEVC test files: https://feederbox.cc/pub/
-- opinionated tag videos https://feederbox.cc/tags/
+- opinionated tag videos https://tags.feederbox.cc
 - Exhaustive stash git repository list: [`/thelist`](https://feederbox.cc/thelist) | [Google Drive](https://docs.google.com/spreadsheets/d/1yudaRDo_3ZOVivviffvQiSGU_gNpgkG4kIYrJP6DHP4)
 
 FansDB projects
