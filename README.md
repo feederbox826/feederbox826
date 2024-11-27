@@ -26,3 +26,5 @@ FansDB projects
 
 quick links [`/hevc`](https://feederbox.cc/hevc) [`/hwaccel`](https://feederbox.cc/hwaccel) [`/thelist`](https://feederbox.cc/thelist)  
 to access any github projects: `https://feederbox.cc/gh/name`
+
+You can find me under `feederbox826` wherever stash is, and [feederbox826.gpg](https://github.com/feederbox826.gpg) where it isn't
