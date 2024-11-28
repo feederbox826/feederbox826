@@ -22,7 +22,7 @@ FansDB projects
 - [SHALookup](https://github.com/feederbox826/FansDB-SHALookup)
 - [stash-notify](https://github.com/feederbox826/stash-notify)
 - [fans-invite](https://github.com/feederbox826/fans-invite)
-- studio logo archive: https://fans.feederbox.cc
+- studio logo archive: https://feederbox.cc/fans/
 
 quick links [`/hevc`](https://feederbox.cc/hevc) [`/hwaccel`](https://feederbox.cc/hwaccel) [`/thelist`](https://feederbox.cc/thelist)  
 to access any github projects: `https://feederbox.cc/gh/name`
